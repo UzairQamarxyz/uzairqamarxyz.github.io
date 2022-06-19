@@ -6,9 +6,8 @@
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Project</title>
-<meta name="generator" content="Org mode" />
-<meta name="description" content="Sample ORG HTML Site"
- />
+<meta name="description" content="Sample ORG HTML Site" />
+<meta name="generator" content="Org Mode" />
 <style type="text/css">
 @import url("https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,500,500i,600,600i");
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400i,500,500i,600,600i");
@@ -17,20 +16,20 @@
 <link rel="stylesheet" href="assets/rethink_inline.css" />
 </head>
 <body>
-<div id="content">
+<div id="content" class="content">
 <h1 class="title">Project</h1>
-<div id="table-of-contents">
+<div id="table-of-contents" role="doc-toc">
 <h2>Table of Contents</h2>
-<div id="text-table-of-contents">
+<div id="text-table-of-contents" role="doc-toc">
 <ul>
-<li><a href="#orgfdce6c9">EXPORTING</a></li>
+<li><a href="#org33d6a69">EXPORTING</a></li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-orgfdce6c9" class="outline-2">
-<h2 id="orgfdce6c9">EXPORTING</h2>
-<div class="outline-text-2" id="text-orgfdce6c9">
+<div id="outline-container-org33d6a69" class="outline-2">
+<h2 id="org33d6a69">EXPORTING</h2>
+<div class="outline-text-2" id="text-org33d6a69">
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras metus massa, dapibus id blandit mollis, gravida vitae eros. Maecenas placerat mollis metus, sit amet iaculis quam consequat vel. Nulla turpis justo, commodo vitae pharetra vel, cursus ac leo. Sed tempor rhoncus urna, non vestibulum arcu accumsan ac. Aliquam erat volutpat. Pellentesque et leo justo. Donec pulvinar dignissim arcu id tincidunt. Vestibulum nec sapien at velit semper venenatis et nec turpis. Quisque nisi mi, condimentum sed consectetur non, ornare sed turpis. Nam vehicula tristique lacus, id sollicitudin magna maximus eget. Suspendisse eu venenatis nisl. Duis odio est, pretium id convallis pellentesque, ultricies eget odio. Integer vel urna lacinia, ullamcorper magna vel, tristique magna. Aliquam mi felis, vestibulum sed dui sit amet, scelerisque volutpat mauris.
 </p>
@@ -45,15 +44,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras metus massa, dapib
 
 <div class="org-src-container">
 <pre class="src src-python"><span class="org-keyword">for</span> item <span class="org-keyword">in</span> [<span class="org-string">"asd"</span>, <span class="org-string">"qwe"</span>, <span class="org-string">"poi"</span>]:
-    <span class="org-keyword">print</span>(<span class="org-string">"item ="</span>, item)
+    <span class="org-builtin">print</span>(<span class="org-string">"item ="</span>, item)
 </pre>
 </div>
 </div>
 </div>
 </div>
 <div id="postamble" class="status">
-<p class="creator"><a href="https://www.gnu.org/software/emacs/">Emacs</a> 26.3 (<a href="https://orgmode.org">Org</a> mode 9.1.9)</p>
-<p class="validation"></p>
+<p class="creator"><a href="https://www.gnu.org/software/emacs/">Emacs</a> 28.1 (<a href="https://orgmode.org">Org</a> mode 9.5.2)</p>
 </div>
 </body>
 </html>
